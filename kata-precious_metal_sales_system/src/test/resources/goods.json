@@ -1,0 +1,68 @@
+[
+  {
+    "discount" : 1,
+    "productName" : "世园会五十国钱币册",
+    "productNo" : "001001",
+    "productPrice" : 998,
+    "productType" : "册"
+  },
+  {
+    "discount" : 0.9,
+    "productName" : "2019北京世园会纪念银章大全40g",
+    "productNo" : "001002",
+    "productPrice" : 1380,
+    "productType" : "盒"
+  },
+  {
+    "discount" : 0.95,
+    "productName" : "招财进宝",
+    "productNo" : "003001",
+    "productPrice" : 1580,
+    "productType" : "条"
+  },
+  {
+    "action" : [
+      "actionFour",
+      "actionFive"
+    ],
+    "discount" : 1,
+    "productName" : "水晶之恋",
+    "productNo" : "003002",
+    "productPrice" : 980,
+    "productType" : "条"
+  },
+  {
+    "action" : [
+      "actionTwo",
+      "actionThree"
+    ],
+    "discount" : 1,
+    "productName" : "中国经典钱币套装",
+    "productNo" : "002002",
+    "productPrice" : 998,
+    "productType" : "套"
+  },
+  {
+    "action" : [
+      "actionFour",
+      "actionFive"
+    ],
+    "discount" : 0.95,
+    "productName" : "守扩之羽比翼双飞4.8g",
+    "productNo" : "002001",
+    "productPrice" : 1080,
+    "productType" : "条"
+  },
+  {
+    "action" : [
+      "actionOne",
+      "actionTwo",
+      "actionThree"
+    ],
+    "discount" : 0.9,
+    "productName" : "中国银象棋12g",
+    "productNo" : "002003",
+    "productPrice" : 698,
+    "productType" : "套"
+  }
+]
